@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Staykli  
 
-🎓 Computer Science student (3rd year, DUІCT).  
+🎓 Computer Science student (4rd year, DUІCT).  
 💻 Passionate about programming, web development, and game creation (Roblox, Python, JS, Unity).  
 🚀 Constantly improving my skills and building personal projects.  
 
@@ -25,7 +25,7 @@
 ## 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/sergiy-saltan](https://www.linkedin.com/in/sergiy-saltan-b373b9251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - Email: st8149257@stud.duikt.edu.ua
-         Saltan.sergei666@Gmail.com 
+- Saltan.sergei666@Gmail.com 
 
 ---
 
